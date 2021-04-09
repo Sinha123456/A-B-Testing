@@ -6,9 +6,7 @@ These results are then used to judge whether one version is more effective than 
 A/B testing is very much like hypothesis testing with the following hypotheses:
 
 **Null Hypothesis:** The new version is no better, or even worse, than the old version.
-
 **Alternative Hypothesis:** The new version is better than the old version
 
 Click through rate (CTR) is often defined as the the number of clicks divided by the number of views. 
-
-CTR: # clicks by unique users / # views by unique users
+CTR:  clicks by unique users / views by unique users
