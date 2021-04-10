@@ -17,4 +17,7 @@ H0:CTRnew≤CTRold
 
 H1:CTRnew>CTRold
 
+clone for that repository: https://github.com/Sinha123456/A-B-Testing.git
+ 
+License: 
 
