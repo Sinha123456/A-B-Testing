@@ -19,5 +19,9 @@ H1:CTRnew>CTRold
 
 clone for that repository: https://github.com/Sinha123456/A-B-Testing.git
  
-License: 
+## License & copyright
+Sinha123456
+
+Licensed under the [MIT License](License)
+
 
